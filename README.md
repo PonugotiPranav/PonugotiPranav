@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PonugotiPranav
 - 👀 I’m interested in Technology!
-- 🌱 I’m currently learning CS @ Virginia Tech
+- 🌱 I’m currently learning CS @ Georgia Tech
 - 💞️ I’m looking to collaborate on projects :)
-- 📫 How to reach me: pranav03@vt.edu
+- 📫 How to reach me: pranav.ponugoti@gatech.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Steve Jobs went to my high school!
 
